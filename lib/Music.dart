@@ -91,7 +91,6 @@ class _MusicState extends State<Music> {
                 Text("0.00",style: textStyle(20, FontWeight.w700),),
                 SizedBox(width: responsive.percentHight(240),),
                 Text("4,50",style: textStyle(20, FontWeight.w700),)
-                  
               ],
             ),
             Expanded(
